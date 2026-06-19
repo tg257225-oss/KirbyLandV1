@@ -1,0 +1,47 @@
+{
+  "item.kirbylandv1.sapphire": "Sapphire",
+  "item.kirbylandv1.ruby": "Ruby",
+  "item.kirbylandv1.topaz": "Topaz",
+  "item.kirbylandv1.opal": "Opal",
+  "item.kirbylandv1.bronze": "Bronze",
+  "item.kirbylandv1.tin": "Tin",
+  "item.kirbylandv1.uranium": "Uranium",
+  "item.kirbylandv1.titanium": "Titanium",
+  "item.kirbylandv1.jade": "Jade",
+  "item.kirbylandv1.void_steel": "Void Steel",
+  "item.kirbylandv1.zinc": "Zinc",
+  "item.kirbylandv1.cobalt": "Cobalt",
+  "item.kirbylandv1.lead": "Lead",
+  "item.kirbylandv1.chrome": "Chrome",
+  "item.kirbylandv1.platinum": "Platinum",
+  "item.kirbylandv1.quantum_shard": "Quantum Shard",
+
+
+  "itemgroup.ruby": "Ore Group",
+  "block.kirbylandv1.ruby_block": "Block of Ruby",
+  "block.kirbylandv1.sapphire_block": "Block of Sapphire",
+  "block.kirbylandv1.jade_block": "Block of Jade",
+  "block.kirbylandv1.lead_block":"Block of Lead",
+  "block.kirbylandv1.tin_block": "Block of Tin",
+  "block.kirbylandv1.bronze_block": "Block of Bronze",
+  "block.kirbylandv1.opal_block": "Block of Opal",
+  "block.kirbylandv1.cobalt_block": "Block of Cobalt",
+  "block.kirbylandv1.platinum_block": "Block of Platinum",
+  
+  "block.kirbylandv1.ruby_ore": "Ruby Ore",
+  "block.kirbylandv1.jade_ore": "Jade Ore",
+  "block.kirbylandv1.tin_ore": "Tin Ore",
+  "block.kirbylandv1.sapphire_ore": "Sapphire Ore",
+  "block.kirbylandv1.cobalt_ore": "Cobalt Ore",
+  "block.kirbylandv1.bronze_ore": "Bronze Ore",
+  "block.kirbylandv1.platinum_ore": "Platinum Ore"
+
+
+}
+
+
+
+
+
+
+

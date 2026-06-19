@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+     "item": "kirbylandv1:jade_block"
+    }
+  ],
+  "result": {
+    "item": "kirbylandv1:jade",
+    "count": 9
+  }
+}

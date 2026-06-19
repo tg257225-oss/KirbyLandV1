@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "kirbylandv1:tin"
+    }
+  },
+  "result": {
+    "item": "kirbylandv1:tin_block"
+  }
+}
+
