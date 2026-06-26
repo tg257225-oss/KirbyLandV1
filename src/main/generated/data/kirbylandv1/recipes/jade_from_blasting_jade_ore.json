@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "jade",
+  "ingredient": {
+    "item": "kirbylandv1:jade_ore"
+  },
+  "result": "kirbylandv1:jade"
+}

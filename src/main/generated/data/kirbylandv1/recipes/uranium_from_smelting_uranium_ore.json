@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 1.8,
+  "group": "uranium",
+  "ingredient": {
+    "item": "kirbylandv1:uranium_ore"
+  },
+  "result": "kirbylandv1:uranium"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.3,
+  "group": "cobalt",
+  "ingredient": {
+    "item": "kirbylandv1:raw_cobalt"
+  },
+  "result": "kirbylandv1:cobalt"
+}

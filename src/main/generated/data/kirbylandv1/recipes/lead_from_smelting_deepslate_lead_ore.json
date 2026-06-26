@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "lead",
+  "ingredient": {
+    "item": "kirbylandv1:deepslate_lead_ore"
+  },
+  "result": "kirbylandv1:lead"
+}

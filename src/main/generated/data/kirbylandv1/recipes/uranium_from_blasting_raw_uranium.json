@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.8,
+  "group": "uranium",
+  "ingredient": {
+    "item": "kirbylandv1:raw_uranium"
+  },
+  "result": "kirbylandv1:uranium"
+}

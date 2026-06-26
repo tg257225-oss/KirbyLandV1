@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.1,
+  "group": "zinc",
+  "ingredient": {
+    "item": "kirbylandv1:raw_zinc"
+  },
+  "result": "kirbylandv1:zinc"
+}

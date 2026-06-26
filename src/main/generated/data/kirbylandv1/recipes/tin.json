@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "kirbylandv1:tin_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "kirbylandv1:tin"
+  }
+}

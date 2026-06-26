@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "sapphire",
+  "ingredient": {
+    "item": "kirbylandv1:deepslate_sapphire_ore"
+  },
+  "result": "kirbylandv1:sapphire"
+}

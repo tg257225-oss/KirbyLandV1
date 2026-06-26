@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "kirbylandv1:magnolia_log",
+    "kirbylandv1:magnolia_wood",
+    "kirbylandv1:stripped_magnolia_log",
+    "kirbylandv1:stripped_magnolia_wood"
+  ]
+}

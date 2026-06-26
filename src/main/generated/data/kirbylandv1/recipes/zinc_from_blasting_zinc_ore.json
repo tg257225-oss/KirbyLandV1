@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.1,
+  "group": "zinc",
+  "ingredient": {
+    "item": "kirbylandv1:zinc_ore"
+  },
+  "result": "kirbylandv1:zinc"
+}

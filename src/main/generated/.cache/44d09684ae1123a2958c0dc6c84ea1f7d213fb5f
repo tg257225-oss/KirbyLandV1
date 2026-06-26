@@ -1,0 +1,8 @@
+// 1.20.1	2026-06-26T18:23:08.6831686	KirbyLandV1/Tags for minecraft:block
+6e9c6ece07d9a976acaee520d4103ff14e17311b data\minecraft\tags\blocks\needs_diamond_tool.json
+206aa8334617a27b13309f373a49cdfe5dd61293 data\minecraft\tags\blocks\mineable\pickaxe.json
+155f01a7dd08a973594aef8a9f3adcd9e39a18d7 data\fabric\tags\blocks\needs_tool_level_4.json
+be1a63bbd43189460d107d9d460fb83e35d52839 data\minecraft\tags\blocks\needs_iron_tool.json
+22d4664a63c5483032322d6da23f38ba0e3e235a data\minecraft\tags\blocks\needs_stone_tool.json
+ddb40f1433fd61dc95226768bc202f2947935723 data\minecraft\tags\blocks\logs_that_burn.json
+d0fe00f00143d9eb5e8a51795c713c60f4a3ccf1 data\kirbylandv1\tags\blocks\metal_detector_detectable_blocks.json

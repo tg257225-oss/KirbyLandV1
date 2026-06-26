@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "kirbylandv1:platinum_block",
+    "kirbylandv1:platinum_ore",
+    "kirbylandv1:deepslate_platinum_ore",
+    "kirbylandv1:titanium_block",
+    "kirbylandv1:titanium_ore",
+    "kirbylandv1:deepslate_titanium_ore",
+    "kirbylandv1:opal_block",
+    "kirbylandv1:opal_ore",
+    "kirbylandv1:deepslate_opal_ore",
+    "kirbylandv1:topaz_block",
+    "kirbylandv1:topaz_ore",
+    "kirbylandv1:deepslate_topaz_ore",
+    "kirbylandv1:lead_ore",
+    "kirbylandv1:lead_block",
+    "kirbylandv1:deepslate_lead_ore",
+    "kirbylandv1:titanium_block",
+    "kirbylandv1:titanium_ore",
+    "kirbylandv1:deepslate_titanium_ore",
+    "kirbylandv1:platinum_block",
+    "kirbylandv1:platinum_ore",
+    "kirbylandv1:deepslate_platinum_ore",
+    "kirbylandv1:cobalt_block",
+    "kirbylandv1:deepslate_cobalt_ore"
+  ]
+}

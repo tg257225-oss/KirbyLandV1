@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "tin",
+  "ingredient": {
+    "item": "kirbylandv1:deepslate_tin_ore"
+  },
+  "result": "kirbylandv1:tin"
+}

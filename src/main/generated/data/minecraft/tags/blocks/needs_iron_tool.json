@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "kirbylandv1:sapphire_block",
+    "kirbylandv1:sapphire_ore",
+    "kirbylandv1:deepslate_sapphire_ore",
+    "kirbylandv1:jade_block",
+    "kirbylandv1:jade_ore",
+    "kirbylandv1:deepslate_jade_ore",
+    "kirbylandv1:tin_block",
+    "kirbylandv1:tin_ore",
+    "kirbylandv1:deepslate_tin_ore",
+    "kirbylandv1:bronze_block",
+    "kirbylandv1:bronze_ore",
+    "kirbylandv1:deepslate_bronze_ore",
+    "kirbylandv1:zinc_ore",
+    "kirbylandv1:zinc_block"
+  ]
+}

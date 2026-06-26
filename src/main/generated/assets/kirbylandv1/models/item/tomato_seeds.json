@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kirbylandv1:item/tomato_seeds"
+  }
+}

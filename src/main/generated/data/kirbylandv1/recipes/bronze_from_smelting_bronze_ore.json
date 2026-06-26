@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "bronze",
+  "ingredient": {
+    "item": "kirbylandv1:bronze_ore"
+  },
+  "result": "kirbylandv1:bronze"
+}
