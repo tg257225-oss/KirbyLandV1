@@ -1,20 +1,51 @@
 {
   "item.kirbylandv1.sapphire": "Sapphire",
+  "item.kirbylandv1.raw_sapphire": "Raw Sapphire",
+
   "item.kirbylandv1.ruby": "Ruby",
+  "item.kirbylandv1.raw_ruby": "Raw Ruby",
+
   "item.kirbylandv1.topaz": "Topaz",
+  "item.kirbylandv1.raw_topaz": "Raw Topaz",
+
   "item.kirbylandv1.opal": "Opal",
+  "item.kirbylandv1.raw_opal": "Raw Opal",
+
   "item.kirbylandv1.bronze": "Bronze",
+  "item.kirbylandv1.raw_bronze": "Raw Bronze",
+
   "item.kirbylandv1.tin": "Tin",
+  "item.kirbylandv1.raw_tin": "Raw Tin",
+
   "item.kirbylandv1.uranium": "Uranium",
+
   "item.kirbylandv1.titanium": "Titanium",
+  "item.kirbylandv1.raw_titanium": "Raw Titanium",
+
+
   "item.kirbylandv1.jade": "Jade",
-  "item.kirbylandv1.void_steel": "Void Steel",
-  "item.kirbylandv1.zinc": "Zinc",
-  "item.kirbylandv1.cobalt": "Cobalt",
-  "item.kirbylandv1.lead": "Lead",
-  "item.kirbylandv1.chrome": "Chrome",
+  "item.kirbylandv1.raw_jade": "Raw Jade",
+
   "item.kirbylandv1.platinum": "Platinum",
+  "item.kirbylandv1.raw_platinum": "Raw Platinum",
+
+  "item.kirbylandv1.zinc": "Zinc",
+  "item.kirbylandv1.raw_zinc": "Raw Zinc",
+
+  "item.kirbylandv1.cobalt": "Cobalt",
+  "item.kirbylandv1.raw_cobalt": "Raw Cobalt",
+
+  "item.kirbylandv1.lead": "Lead",
+  "item.kirbylandv1.raw_lead": "Raw Lead",
+
+  "item.kirbylandv1.void_steel": "Void Steel",
+  "item.kirbylandv1.chrome": "Chrome",
   "item.kirbylandv1.quantum_shard": "Quantum Shard",
+  "item.kirbylandv1.rune": "Rune",
+
+
+
+  "item.kirbyland1.metal_detector": "Metal Detector",
 
 
   "itemgroup.ruby": "Ore Group",
@@ -27,16 +58,51 @@
   "block.kirbylandv1.opal_block": "Block of Opal",
   "block.kirbylandv1.cobalt_block": "Block of Cobalt",
   "block.kirbylandv1.platinum_block": "Block of Platinum",
+  "block.kirbylandv1.titanium_block": "Block of Titanium",
+  "block.kirbylandv1.topaz_block": "Block of Topaz",
+  "block.kirbylandv1.zinc_block": "Block of Zinc",
   
   "block.kirbylandv1.ruby_ore": "Ruby Ore",
   "block.kirbylandv1.jade_ore": "Jade Ore",
   "block.kirbylandv1.tin_ore": "Tin Ore",
   "block.kirbylandv1.sapphire_ore": "Sapphire Ore",
-  "block.kirbylandv1.cobalt_ore": "Cobalt Ore",
   "block.kirbylandv1.bronze_ore": "Bronze Ore",
-  "block.kirbylandv1.platinum_ore": "Platinum Ore"
+  "block.kirbylandv1.platinum_ore": "Platinum Ore",
+  "block.kirbylandv1.titanium_ore": "Titanium Ore",
+  "block.kirbylandv1.opal_ore": "Opal Ore",
+  "block.kirbylandv1.topaz_ore": "Topaz Ore",
+  "block.kirbylandv1.lead_ore": "Lead Ore",
+  "block.kirbylandv1.zinc_ore": "Zinc Ore",
+  "block.kirbylandv1.uranium_ore": "Uranium Ore",
 
+  "block.kirbylandv1.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.kirbylandv1.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.kirbylandv1.deepslate_jade_ore": "Deepslate Jade Ore",
+  "block.kirbylandv1.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.kirbylandv1.deepslate_opal_ore": "Deepslate Opal Ore",
+  "block.kirbylandv1.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.kirbylandv1.deepslate_titanium_ore": "Deepslate Titanium Ore",
+  "block.kirbylandv1.deepslate_topaz_ore": "Deepslate Topaz Ore",
+  "block.kirbylandv1.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.kirbylandv1.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
+  "block.kirbylandv1.deepslate_bronze_ore": "Deepslate Bronze Ore",
+  "block.kirbylandv1.deepslate_uranium_ore": "Deepslate Uranium Ore",
 
+  "block.kirbylandv1.magnolia_log": "Magnolia Log",
+  "block.kirbylandv1.magnolia_wood": "Magnolia Wood",
+  "block.kirbylandv1.stripped_magnolia_log": "Stripped Magnolia Log",
+  "block.kirbylandv1.stripped_magnolia_wood": "Stripped Magnolia Wood",
+  "block.kirbylandv1.magnolia_planks": "Magnolia Planks",
+  "block.kirbylandv1.magnolia_leaves": "Magnolia Leaves",
+
+  "item.kirbylandv1.tomato_seeds": "Tomato Seeds",
+  "item.kirbylandv1.tomato": "Tomato",
+  "item.kirbylandv1.cheese": "Cheese",
+  "item.kirbylandv1.chocolate": "Chocolate",
+  "item.kirbylandv1.strawberry": "Strawberry",
+  "item.kirbylandv1.fried_eggs": "Fried Eggs",
+  "item.kirbylandv1.baguette": "Baguette",
+  "item.kirbylandv1.eggs_benedict": "Eggs Benedict"
 }
 
 
